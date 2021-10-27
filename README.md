@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding and automation
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on building simple project
-- 📫 thaipham7778@gmail.com
+- 📫 Contact with me on thaipham7778@gmail.com
 
 <!---
 AtticusPham/AtticusPham is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
