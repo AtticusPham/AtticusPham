@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AtticusPham
+- 👋 Hi, I’m @AtticusP
 - 👀 I’m interested in coding and automation
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on building simple project
